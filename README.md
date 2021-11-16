@@ -14,4 +14,4 @@ and controls like dragging,and that its does not need to have a Material ancesto
 on the other hand InkWell is a rectangle area of Material that responds to ink splashes,so it has
 effects such as ripple effect tap and other ink related features that arent found in gesture.
 In other words GestureDetector provides more controls like dragging etc. on the other hand it doesn't include ripple
-effect tap, which InkWell does.
+effect tap, which InkWell does."# android-project-flutter-assignment" 
